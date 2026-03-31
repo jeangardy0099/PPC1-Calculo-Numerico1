@@ -1,12 +1,12 @@
 # PPC1 - Cálculo Numérico Aplicado
 
-## 📌 Descrição
+##  Descrição
 
 Este projeto implementa o método de Runge-Kutta de quarta ordem (RK4) para resolver numericamente a equação diferencial que descreve o movimento de uma partícula esférica em um fluido viscoso.
 
 ---
 
-## 📐 Problema
+## Problema
 
 A equação diferencial adimensional resolvida é:
 
@@ -18,13 +18,13 @@ onde:
 
 ---
 
-## ⚙️ Método Numérico
+## Método Numérico
 
 Foi utilizado o método de Runge-Kutta de 4ª ordem (RK4), um método explícito com erro global da ordem de O(h⁴), garantindo boa precisão numérica.
 
 ---
 
-## 📊 Análises Realizadas
+## Análises Realizadas
 
 ### 1. Validação (Re → 0)
 
@@ -59,7 +59,7 @@ Resultado: aumento do Re provoca desvio em relação ao regime de Stokes.
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Certifique-se de ter Python instalado
 2. Instale as dependências:
